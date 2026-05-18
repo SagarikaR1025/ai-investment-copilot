@@ -1,0 +1,7 @@
+NVIDIA investment research note:
+
+NVIDIA remains a leading beneficiary of accelerated AI infrastructure demand. Growth is driven by data center GPUs, enterprise AI adoption, cloud provider spending, and demand for high-performance computing.
+
+Risks include valuation pressure, supply chain constraints, customer concentration among major cloud providers, export restrictions, and the possibility of AI infrastructure spending normalizing over time.
+
+From an investment research perspective, NVIDIA represents a high-growth AI infrastructure company with strong revenue momentum, but its outlook depends on continued enterprise and hyperscaler demand for AI compute.
